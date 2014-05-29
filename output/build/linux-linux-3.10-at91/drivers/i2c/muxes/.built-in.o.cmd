@@ -1,0 +1,1 @@
+cmd_drivers/i2c/muxes/built-in.o :=  rm -f drivers/i2c/muxes/built-in.o; /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ar rcsD drivers/i2c/muxes/built-in.o

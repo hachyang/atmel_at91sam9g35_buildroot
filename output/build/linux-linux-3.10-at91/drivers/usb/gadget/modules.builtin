@@ -1,0 +1,3 @@
+kernel/drivers/usb/gadget/udc-core.ko
+kernel/drivers/usb/gadget/at91_udc.ko
+kernel/drivers/usb/gadget/atmel_usba_udc.ko

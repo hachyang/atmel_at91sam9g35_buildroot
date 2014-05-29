@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/usb_f_obex.ko := /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL -r  -T /home/ryang/AtmelSam9/buildroot-at91/output/build/linux-linux-3.10-at91/scripts/module-common.lds --build-id  -o drivers/usb/gadget/usb_f_obex.ko drivers/usb/gadget/usb_f_obex.o drivers/usb/gadget/usb_f_obex.mod.o

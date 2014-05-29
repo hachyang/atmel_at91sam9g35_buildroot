@@ -1,0 +1,1 @@
+cmd_drivers/char/helloworld4.ko := /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL -r  -T /home/ryang/AtmelSam9/buildroot-at91/output/build/linux-linux-3.10-at91/scripts/module-common.lds --build-id  -o drivers/char/helloworld4.ko drivers/char/helloworld4.o drivers/char/helloworld4.mod.o

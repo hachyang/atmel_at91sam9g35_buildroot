@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/input/touchscreen/built-in.o drivers/input/touchscreen/atmel_mxt_ts.o 

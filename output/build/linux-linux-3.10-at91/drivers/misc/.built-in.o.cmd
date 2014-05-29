@@ -1,0 +1,1 @@
+cmd_drivers/misc/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/misc/built-in.o drivers/misc/atmel_pwm.o drivers/misc/atmel_tclib.o drivers/misc/eeprom/built-in.o drivers/misc/cb710/built-in.o drivers/misc/ti-st/built-in.o drivers/misc/lis3lv02d/built-in.o drivers/misc/carma/built-in.o 

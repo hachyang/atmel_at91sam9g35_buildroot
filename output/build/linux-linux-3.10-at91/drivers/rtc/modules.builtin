@@ -1,0 +1,3 @@
+kernel/drivers/rtc/rtc-at91rm9200.ko
+kernel/drivers/rtc/rtc-at91sam9.ko
+kernel/drivers/rtc/rtc-rv3029c2.ko

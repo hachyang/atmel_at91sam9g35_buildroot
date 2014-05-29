@@ -1,0 +1,1 @@
+cmd_drivers/rtc/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/rtc/built-in.o drivers/rtc/rtc-lib.o drivers/rtc/hctosys.o drivers/rtc/systohc.o drivers/rtc/rtc-core.o drivers/rtc/rtc-at91rm9200.o drivers/rtc/rtc-at91sam9.o drivers/rtc/rtc-rv3029c2.o 

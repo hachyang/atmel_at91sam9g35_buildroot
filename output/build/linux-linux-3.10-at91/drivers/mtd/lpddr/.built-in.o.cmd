@@ -1,0 +1,1 @@
+cmd_drivers/mtd/lpddr/built-in.o :=  rm -f drivers/mtd/lpddr/built-in.o; /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ar rcsD drivers/mtd/lpddr/built-in.o

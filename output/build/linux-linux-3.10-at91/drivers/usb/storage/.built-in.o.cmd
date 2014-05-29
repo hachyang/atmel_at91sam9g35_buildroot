@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/usb/storage/built-in.o drivers/usb/storage/usb-storage.o 

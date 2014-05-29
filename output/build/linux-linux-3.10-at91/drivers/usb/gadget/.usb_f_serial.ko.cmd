@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/usb_f_serial.ko := /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL -r  -T /home/ryang/AtmelSam9/buildroot-at91/output/build/linux-linux-3.10-at91/scripts/module-common.lds --build-id  -o drivers/usb/gadget/usb_f_serial.ko drivers/usb/gadget/usb_f_serial.o drivers/usb/gadget/usb_f_serial.mod.o

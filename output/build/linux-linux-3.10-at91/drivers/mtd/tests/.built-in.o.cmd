@@ -1,0 +1,1 @@
+cmd_drivers/mtd/tests/built-in.o :=  rm -f drivers/mtd/tests/built-in.o; /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ar rcsD drivers/mtd/tests/built-in.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/media/platform/built-in.o drivers/media/platform/davinci/built-in.o 

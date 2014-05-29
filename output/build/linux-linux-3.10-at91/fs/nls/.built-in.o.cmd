@@ -1,0 +1,1 @@
+cmd_fs/nls/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o fs/nls/built-in.o fs/nls/nls_base.o fs/nls/nls_cp437.o fs/nls/nls_cp850.o fs/nls/nls_iso8859-1.o fs/nls/nls_utf8.o 

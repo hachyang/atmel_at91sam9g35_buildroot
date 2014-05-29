@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/zr364xx/built-in.o :=  rm -f drivers/media/usb/zr364xx/built-in.o; /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ar rcsD drivers/media/usb/zr364xx/built-in.o

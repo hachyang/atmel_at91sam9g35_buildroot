@@ -1,0 +1,1 @@
+cmd_fs/notify/dnotify/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o fs/notify/dnotify/built-in.o fs/notify/dnotify/dnotify.o 

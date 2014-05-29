@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/usb/host/built-in.o drivers/usb/host/ehci-hcd.o drivers/usb/host/ehci-atmel.o drivers/usb/host/ohci-hcd.o 

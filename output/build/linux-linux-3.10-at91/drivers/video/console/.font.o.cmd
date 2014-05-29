@@ -1,0 +1,1 @@
+cmd_drivers/video/console/font.o := /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/video/console/font.o drivers/video/console/fonts.o drivers/video/console/font_8x8.o drivers/video/console/font_acorn_8x8.o drivers/video/console/font_mini_4x6.o 

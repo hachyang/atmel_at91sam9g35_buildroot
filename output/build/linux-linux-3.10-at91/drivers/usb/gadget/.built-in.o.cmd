@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/usb/gadget/built-in.o drivers/usb/gadget/udc-core.o drivers/usb/gadget/at91_udc.o drivers/usb/gadget/atmel_usba_udc.o 

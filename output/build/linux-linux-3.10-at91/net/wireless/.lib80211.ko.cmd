@@ -1,0 +1,1 @@
+cmd_net/wireless/lib80211.ko := /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL -r  -T /home/ryang/AtmelSam9/buildroot-at91/output/build/linux-linux-3.10-at91/scripts/module-common.lds --build-id  -o net/wireless/lib80211.ko net/wireless/lib80211.o net/wireless/lib80211.mod.o

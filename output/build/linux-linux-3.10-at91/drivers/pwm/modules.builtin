@@ -1,0 +1,2 @@
+kernel/drivers/pwm/pwm-atmel.ko
+kernel/drivers/pwm/pwm-atmel-tcb.ko

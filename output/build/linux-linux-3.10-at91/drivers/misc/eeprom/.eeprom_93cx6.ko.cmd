@@ -1,0 +1,1 @@
+cmd_drivers/misc/eeprom/eeprom_93cx6.ko := /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL -r  -T /home/ryang/AtmelSam9/buildroot-at91/output/build/linux-linux-3.10-at91/scripts/module-common.lds --build-id  -o drivers/misc/eeprom/eeprom_93cx6.ko drivers/misc/eeprom/eeprom_93cx6.o drivers/misc/eeprom/eeprom_93cx6.mod.o

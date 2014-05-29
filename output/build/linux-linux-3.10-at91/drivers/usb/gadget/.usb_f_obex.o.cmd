@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/usb_f_obex.o := /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/usb/gadget/usb_f_obex.o drivers/usb/gadget/f_obex.o 

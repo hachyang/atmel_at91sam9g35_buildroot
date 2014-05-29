@@ -1,0 +1,1 @@
+cmd_drivers/leds/trigger/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/leds/trigger/built-in.o drivers/leds/trigger/ledtrig-timer.o drivers/leds/trigger/ledtrig-heartbeat.o drivers/leds/trigger/ledtrig-gpio.o 

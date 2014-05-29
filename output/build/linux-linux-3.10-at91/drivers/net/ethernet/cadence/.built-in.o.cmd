@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/cadence/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/net/ethernet/cadence/built-in.o drivers/net/ethernet/cadence/macb.o 

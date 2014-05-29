@@ -1,0 +1,1 @@
+cmd_drivers/video/backlight/built-in.o :=  /home/ryang/AtmelSam9/buildroot-at91/output/host/usr/bin/arm-buildroot-linux-uclibcgnueabi-ld -EL    -r -o drivers/video/backlight/built-in.o drivers/video/backlight/backlight.o 
